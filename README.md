@@ -1,6 +1,7 @@
 🚀 Expense Tracking System
 
-📌 Overview
+📌 Overview:
+
 This project was built as part of my broader journey toward designing AI-ready, scalable systems.
 Instead of treating Python as just a new language, the focus here was to apply backend design principles in a lightweight, fast-moving environment, using modern Python frameworks to prototype an end-to-end system.
 The application enables users to track, manage, and analyze expenses through a simple UI backed by a structured API layer.
